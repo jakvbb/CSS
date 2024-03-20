@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Style zewnetrzne</title>
+    <LINK href="Kole_z5_2.css" rel="stylesheet" 
+type="text/CSS">
+</head>
+<body>
+    <!--13.3.2024 Jakub Kolendo-->
+    <body bgcolor="silver">
+    <h1 style="color: purple;font-size: 42 px;"> styl h1 naglówka, wielkość 42 pikseli, fioletowy zdefiniowany zewnętrznie</h1>
+        <p> Jakub Kolendo -> Fortran jest najstarszym językiem programowania </p>
+</body>
+</html>
