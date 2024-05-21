@@ -1,0 +1,43 @@
+.first{
+    background-color: #FFFDD0;
+    font-size: 19pt;
+      width: 40%;
+      
+}
+
+p
+{
+  color:orange;
+  font-size:20pt;
+  font-family: "Arial";
+}
+
+
+
+.second {
+    background-color: #FF00FF;
+    width:15%;
+    height:80%;
+}
+
+i{
+  color: green;
+  font-size:20pt;
+}
+
+s{
+  color:red;
+  font-size:20pt;
+}
+
+u{
+  color: purple;
+  font-size:20pt;
+  text-decoration:overline;
+}
+
+
+.third {
+    color: #c0d727;
+    font-size: 20pt;
+}
