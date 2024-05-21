@@ -1,7 +1,7 @@
 .first{
     background-color: #FFFDD0;
     font-size: 19pt;
-      width: 40%;
+      width: 80%;
       
 }
 
@@ -16,8 +16,8 @@ p
 
 .second {
     background-color: #FF00FF;
-    width:15%;
-    height:80%;
+    width:80%;
+    height:15%;
 }
 
 i{
